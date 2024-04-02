@@ -1,7 +1,9 @@
 # Hi, I'm a Python developer.
 ## Hard skills:
 
-<img src=README/python.svg width="100" height="100">
+<img src=README/python.svg width="50" height="50">
+<img src=README/django.svg width="50" height="50">
+
 
  Django, Django Rest Framework, FastAPI, PostgreSQL, Docker, Git, Linux, GitHub, CI/CD with GitHub Actions.
 
