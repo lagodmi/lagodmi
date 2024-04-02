@@ -1,6 +1,7 @@
 # Hi, I'm a Python developer.
 ## Hard skills:
-Python, Django, Django Rest Framework, FastAPI, PostgreSQL, Docker, Git, Linux, GitHub, CI/CD with GitHub Actions.
+![python](README/python.svg)
+ Django, Django Rest Framework, FastAPI, PostgreSQL, Docker, Git, Linux, GitHub, CI/CD with GitHub Actions.
 
 <!--
 **lagodmi/lagodmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
