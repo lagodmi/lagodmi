@@ -1,11 +1,29 @@
 # Hi, I'm a Python developer.
-## Hard skills:
 
+<!-- programming languages -->
 <img src=README/python.svg width="50" height="50">
+
+<!-- frameworks and libraries -->
 <img src=README/django.svg width="50" height="50">
+<img src=README/djangorest.svg width="50" height="50">
+<img src=README/fastapi.svg width="50" height="50">
+
+<!-- data base -->
+<img src=README/postgresql.svg width="50" height="50">
+
+<!-- version control -->
+<img src=README/git.svg width="50" height="50">
+<img src=README/github.svg width="50" height="50">
+<img src=README/githubactions.svg width="50" height="50">
+
+<!-- docker -->
+<img src=README/docker.svg width="50" height="50">
+<img src=README/nginx.svg width="50" height="50">
 
 
- Django, Django Rest Framework, FastAPI, PostgreSQL, Docker, Git, Linux, GitHub, CI/CD with GitHub Actions.
+<!-- os -->
+<img src=README/linux.svg width="50" height="50">
+
 
 <!--
 **lagodmi/lagodmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
