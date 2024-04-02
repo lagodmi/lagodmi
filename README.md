@@ -1,6 +1,6 @@
 # Hi, I'm a Python developer.
 ## Hard skills:
-![python](README/python.svg)
+![python](README/python.svg=50×50)
  Django, Django Rest Framework, FastAPI, PostgreSQL, Docker, Git, Linux, GitHub, CI/CD with GitHub Actions.
 
 <!--
