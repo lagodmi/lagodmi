@@ -1,7 +1,7 @@
 # Hi, I'm a Python developer.
 
 <!-- programming languages -->
-<img src=README/python.svg width="50" height="50" />
+<img src=README/python.svg width="50" height="50" class="image"/>
 
 <!-- frameworks and libraries -->
 <img src=README/django.svg width="50" height="50" />
