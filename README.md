@@ -18,12 +18,13 @@
 
 <!-- docker -->
 <img src=README/docker.svg width="50" height="50">
+<img src=README/nginx.svg width="50" height="50">
 
 <!-- os -->
 <img src=README/linux.svg width="50" height="50">
 
-
 <img src=README/nginx.svg width="50" height="50">
+
 
 
 <!--
