@@ -4,10 +4,10 @@
     <a href="https://t.me/Lagodnoff">
         <img src="README/telegram.svg" width="50" height="50">
     </a>
-    <a href="https://api.whatsapp.com/send?phone=89653173034">
+    <a href="https://api.whatsapp.com/send?phone=89998290561">
         <img src="README/WhatsApp.svg" width="50" height="50">
     </a>
-    <a href=>
+    <a href="">
         <img src="README/linkedIn.svg" width="50" height="50">
     </a>
 </div>
