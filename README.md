@@ -2,6 +2,9 @@
 
 ## Соц. сети:
 <div style="display: flex;">
+    <a href="lagodnov@gmail.com">
+        <img src="README/gmail.svg" width="50" height="50">
+    </a>
     <a href="https://t.me/Lagodnoff">
         <img src="README/telegram.svg" width="50" height="50">
     </a>
