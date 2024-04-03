@@ -17,13 +17,13 @@
     <img src=README/python.svg width="50" height="50">
     <img src=README/django.svg width="50" height="50">
     <img src=README/djangorest.svg width="60" height="60">
-    <img src=README/fastapi.svg width="100" height="100">
+    <img src=README/fastapi.svg width="80" height="80">
     <img src=README/postgresql.svg width="50" height="50">
     <img src=README/git.svg width="50" height="50">
     <img src=README/github.svg width="50" height="50">
     <img src=README/githubactions.svg width="50" height="50">
     <img src=README/docker.svg width="70" height="70">
-    <img src=README/nginx.svg width="90" height="90">
+    <img src=README/nginx.svg width="80" height="80">
     <img src=README/linux.svg width="50" height="50">
 </div>
 
