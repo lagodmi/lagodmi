@@ -1,5 +1,6 @@
 # Hi, I'm a Python developer.
 
+## Соц. сети:
 <div style="display: flex;">
     <a href="https://t.me/Lagodnoff">
         <img src="README/telegram.svg" width="50" height="50">
@@ -12,7 +13,7 @@
     </a>
 </div>
 
-
+## Стек:
 <div style="display: flex;">
     <img src=README/python.svg width="50" height="50">
     <img src=README/django.svg width="50" height="50">
@@ -26,20 +27,3 @@
     <img src=README/nginx.svg width="70" height="70">
     <img src=README/linux.svg width="50" height="50">
 </div>
-
-
-
-<!--
-**lagodmi/lagodmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
