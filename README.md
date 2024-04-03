@@ -4,7 +4,7 @@
     <a href="https://t.me/Lagodnoff">
         <img src="README/telegram.svg" width="50" height="50">
     </a>
-    <a href="https://api.whatsapp.com/send?phone=+79998290561">
+    <a href="https://api.whatsapp.com/send?phone=89653173034">
         <img src="README/WhatsApp.svg" width="50" height="50">
     </a>
     <a href=>
