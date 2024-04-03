@@ -15,15 +15,15 @@
 
 ## Стек:
 <div style="display: flex;">
-    <img src=README/python.svg width="50" height="50">
-    <img src=README/django.svg width="50" height="50">
-    <img src=README/djangorest.svg width="60" height="60">
-    <img src=README/fastapi.svg width="50" height="50">
-    <img src=README/postgresql.svg width="50" height="50">
-    <img src=README/git.svg width="50" height="50">
-    <img src=README/github.svg width="50" height="50">
-    <img src=README/githubactions.svg width="50" height="50">
-    <img src=README/docker.svg width="60" height="60">
-    <img src=README/nginx.svg width="70" height="70">
-    <img src=README/linux.svg width="50" height="50">
+    <img src="README/python.svg" width="50" height="50" title="Python">
+    <img src="README/django.svg" width="50" height="50" title="Django">
+    <img src="README/djangorest.svg" width="60" height="60" title="Django Rest Framework">
+    <img src="README/fastapi.svg" width="50" height="50" title="FastAPI">
+    <img src="README/postgresql.svg" width="50" height="50" title="PostgreSQL">
+    <img src="README/git.svg" width="50" height="50" title="Git">
+    <img src="README/github.svg" width="50" height="50" title="GitHub">
+    <img src="README/githubactions.svg" width="50" height="50" title="GitHub Actions">
+    <img src="README/docker.svg" width="60" height="60" title="Docker">
+    <img src="README/nginx.svg" width="70" height="70" title="Nginx">
+    <img src="README/linux.svg" width="50" height="50" title="Linux">
 </div>
