@@ -1,6 +1,19 @@
 # Hi, I'm a Python developer.
 
 <div style="display: flex;">
+    <a href="https://t.me/Lagodnoff">
+        <img src="README/telegram.svg" width="50" height="50">
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=+79998290561">
+        <img src="README/WhatsApp.svg" width="50" height="50">
+    </a>
+    <a href=>
+        <img src="README/linkedIn.svg" width="50" height="50">
+    </a>
+</div>
+
+
+<div style="display: flex;">
     <img src=README/python.svg width="50" height="50">
     <img src=README/django.svg width="50" height="50">
     <img src=README/djangorest.svg width="50" height="50">
