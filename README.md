@@ -11,7 +11,7 @@
     <a href="https://api.whatsapp.com/send?phone=89998290561">
         <img src="README/WhatsApp.svg" width="50" height="50">
     </a>
-    <a href="">
+    <a href="https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%BD%D0%BE%D0%B2-b6b8b02b9">
         <img src="README/linkedIn.svg" width="50" height="50">
     </a>
 </div>
